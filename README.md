@@ -21,8 +21,8 @@ aviso: alto risco de ficar bilu teteia ao lurkar aqui, a preguiça chegou a fala
 
 ## Status Github 📈
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felipeyousoro"/>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeyousoro"/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeyousoro"/>
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeyousoro"/>
   
   
