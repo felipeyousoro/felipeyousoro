@@ -18,7 +18,10 @@ aviso: alto risco de ficar bilu teteia ao lurkar aqui, a preguiça chegou a fala
 
 📧 [yousoro.felipe.asteroid@uel.br](mailto:yousoro.felipe.asteroid@uel.br)
 
-
+## Outros
+  
+  1º Lugar [Coder Rerun 2022](https://www.ieeeuel.org/coderrerun) (Amantes de Estruturas de Dados)
+  
 ## Status Github 📈
 
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeyousoro"/>
