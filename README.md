@@ -35,6 +35,6 @@ aviso: alto risco de ficar bilu teteia ao lurkar aqui, a preguiça chegou a fala
 
 <div align="center" style="display: inline_block"><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeyousoro"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeyousoro"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeyousoro&hide=jupyter%20notebook"/>
 </div>
   
