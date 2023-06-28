@@ -22,6 +22,8 @@ aviso: alto risco de ficar bilu teteia ao lurkar aqui, a preguiça chegou a fala
 
 👜 Bolsista [Fundação Araucária](http://www.uel.br/proex/portal/pages/arquivos/edital-proex-024-2022.pdf) (2022-2023)
 
+💼 Estagiário [ATI UEL](https://ati.uel.br) (2023-)
+
 <div align="center" style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
