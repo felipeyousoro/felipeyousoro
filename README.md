@@ -20,6 +20,8 @@ aviso: alto risco de ficar bilu teteia ao lurkar aqui, a preguiça chegou a fala
   
 🥇 1º Lugar [Coder Rerun 2022](https://www.ieeeuel.org/coderrerun) (Amantes de Estruturas de Dados)
 
+📚 Monitor da disciplina de Estruturas de Dados (2022)
+
 👜 Bolsista [Fundação Araucária](http://www.uel.br/proex/portal/pages/arquivos/edital-proex-024-2022.pdf) (2022-2023)
 
 💼 Estagiário [ATI UEL](https://ati.uel.br) (2023-)
