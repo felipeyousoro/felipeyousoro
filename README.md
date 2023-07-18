@@ -12,9 +12,10 @@ aviso: alto risco de ficar bilu teteia ao lurkar aqui, a preguiça chegou a fala
 
 📌 Goethe-Zertifikat A1 - Fit in Deutsch 1 - 2016
 
-## E-mail
+## Contato
 
 📧 [yousoro.felipe.asteroid@uel.br](mailto:yousoro.felipe.asteroid@uel.br)
+[LinkedIn] (https://www.linkedin.com/in/felipe-dias-abrahao-024760266/)
 
 ## Outros
   
@@ -39,6 +40,6 @@ aviso: alto risco de ficar bilu teteia ao lurkar aqui, a preguiça chegou a fala
 
 <div align="center" style="display: inline_block"><br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeyousoro"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeyousoro&hide=jupyter%20notebook"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeyousoro&layout=donut&theme=highcontrast&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
 </div>
   
