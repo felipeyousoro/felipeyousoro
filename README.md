@@ -15,7 +15,8 @@ aviso: alto risco de ficar bilu teteia ao lurkar aqui, a preguiça chegou a fala
 ## Contato
 
 📧 [yousoro.felipe.asteroid@uel.br](mailto:yousoro.felipe.asteroid@uel.br)
-[LinkedIn] (https://www.linkedin.com/in/felipe-dias-abrahao-024760266/)
+
+[LinkedIn](https://www.linkedin.com/in/felipe-dias-abrahao-024760266/)
 
 ## Outros
   
