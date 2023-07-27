@@ -2,8 +2,9 @@
 
 ## Descrição (Description)
 
-Aviso: alto risco de ficar bilu tetéia ao lurkar aqui, minha preguiça é mais forte que eu na maioria das vezes
-Warning: high-risk of going crazy when lurking here, my lazyness is stronger than me most of the times
+**Aviso:** alto risco de ficar bilu tetéia ao lurkar aqui, minha preguiça é mais forte que eu na maioria das vezes
+
+**Warning:** high-risk of going crazy when lurking here, my lazyness is stronger than me most of the times
 
 ![ll](https://user-images.githubusercontent.com/42080804/164911085-8bd42e11-d55d-4206-86e7-62d8c85e0a3d.png)
 
