@@ -6,7 +6,7 @@
 
 **Warning:** high-risk of going crazy when lurking here, my lazyness is stronger than me most of the times
 
-![ll](https://user-images.githubusercontent.com/42080804/164911085-8bd42e11-d55d-4206-86e7-62d8c85e0a3d.png)
+![ll](https://github.com/felipeyousoro/felipeyousoro/assets/42080804/52492045-63f6-4e28-8fa1-fa90672833ac)
 
 ## Certificados (Certifications)
 
