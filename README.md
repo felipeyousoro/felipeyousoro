@@ -1,32 +1,33 @@
 # Felipe Yousoro
 
-## Descrição
+## Descrição (Description)
+
+Aviso: alto risco de ficar bilu tetéia ao lurkar aqui, minha preguiça é mais forte que eu na maioria das vezes
+Warning: high-risk of going crazy when lurking here, my lazyness is stronger than me most of the times
 
 ![ll](https://user-images.githubusercontent.com/42080804/164911085-8bd42e11-d55d-4206-86e7-62d8c85e0a3d.png)
 
-aviso: alto risco de ficar bilu teteia ao lurkar aqui, a preguiça chegou a falar mais alto na maioria das vezes
-
-## Certificados
+## Certificados (Certifications)
 
 📌 Cambridge C1 - CAE (Certificate in Advanced English) - 2022
 
 📌 Goethe-Zertifikat A1 - Fit in Deutsch 1 - 2016
 
-## Contato
+## Contato (Contact)
 
 📧 [yousoro.felipe.asteroid@uel.br](mailto:yousoro.felipe.asteroid@uel.br)
 
 [LinkedIn](https://www.linkedin.com/in/felipe-dias-abrahao-024760266/)
 
-## Outros
+## Outros (Others)
   
-🥇 1º Lugar [Coder Rerun 2022](https://www.ieeeuel.org/coderrerun) (Amantes de Estruturas de Dados)
+🥇 1º Lugar (1st Place) [Coder Rerun 2022](https://www.ieeeuel.org/coderrerun) (Amantes de Estruturas de Dados)
 
-📚 Monitor da disciplina de Estruturas de Dados (2022)
+📚 Monitor da disciplina de Estruturas de Dados (Data Structures' academic tutor) (2022)
 
-👜 Bolsista [Fundação Araucária](http://www.uel.br/proex/portal/pages/arquivos/edital-proex-024-2022.pdf) (2022-2023)
+👜 Bolsista (Project Scholarship) [Fundação Araucária](http://www.uel.br/proex/portal/pages/arquivos/edital-proex-024-2022.pdf) (2022-2023)
 
-💼 Estagiário [ATI UEL](https://ati.uel.br) (2023-)
+💼 Estagiário (Intern) [ATI UEL](https://ati.uel.br) (2023-)
 
 <div align="center" style="display: inline_block"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
