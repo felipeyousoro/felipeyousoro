@@ -1,5 +1,7 @@
 # Felipe Yousoro
 
+![](https://komarev.com/ghpvc/?username=felipeyousoro&color=blue)
+
 ## Descrição (Description)
 
 **Aviso:** alto risco de ficar bilu tetéia ao lurkar aqui, minha preguiça é mais forte que eu na maioria das vezes
