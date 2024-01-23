@@ -18,7 +18,7 @@
 <img height="250" width="176" src="./imgs/honzuki.jpg">
 </div>
 
-<div align="left">
+<div align="right">
 <h3 align="center">Aikatsu!</h3>
 <img height="250" width="176" src="./imgs/aikatsu.jpg"> 
 </div>
@@ -36,7 +36,7 @@
 <img height="175" width="175" src="./imgs/arknights.jpg"> 
 </div>
 
-<div align="left">
+<div align="right">
 <h3 align="center">World of Warcraft</h3>
 <img height="175" width="175" src="./imgs/wow.png"> 
 </div>
