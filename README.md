@@ -3,14 +3,14 @@
 ## Still working on Readme
 
 <div align="center">
-<h1 style="font-family: cursive;">📈 Stats 📊</h1>
+<h1>📈 𝒮𝓉𝒶𝓉𝓈 📊</h1>
 
 ![](https://komarev.com/ghpvc/?username=felipeyousoro&style=for-the-badge&color=green)
 
 </div>
 
 <div align="center">
-<h1 style="font-family: cursive;">🖥️ Favorite anime and novel series 📚</h1>
+<h1>🖥️ 𝐹𝒶𝓋𝑜𝓇𝒾𝓉𝑒 𝒶𝓃𝒾𝓂𝑒 𝒶𝓃𝒹 𝓃𝑜𝓋𝑒𝓁 𝓈𝑒𝓇𝒾𝑒𝓈 📚</h1>
 
 <table>
     <tr>
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<h1 style="font-family: cursive;">🎮 Favorite games 🎮</h1>
+<h1>🎮 𝐹𝒶𝓋𝑜𝓇𝒾𝓉𝑒 𝑔𝒶𝓂𝑒𝓈 🎮</h1>
 
 <table style="margin: 0 auto; width: 100%;">
     <tr>
