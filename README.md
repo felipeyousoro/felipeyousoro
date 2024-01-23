@@ -10,17 +10,17 @@
 
 <div align="left">
 <h3 align="center">Love Live!</h3>
-<img height="250" width="176" src="./imgs/love-live.jpg"> 
+<img align="center" height="250" width="176" src="./imgs/love-live.jpg"> 
 </div>
 
 <div align="center">
 <h3 align="center">Honzuki no Gekokujou</h3>
-<img height="250" width="176" src="./imgs/honzuki.jpg">
+<img align="center" height="250" width="176" src="./imgs/honzuki.jpg">
 </div>
 
 <div align="right">
 <h3 align="center">Aikatsu!</h3>
-<img height="250" width="176" src="./imgs/aikatsu.jpg"> 
+<img align="center" height="250" width="176" src="./imgs/aikatsu.jpg"> 
 </div>
 
 </div>
@@ -33,12 +33,12 @@
 
 <div align="left">
 <h3 align="center">Arknights</h3>
-<img height="175" width="175" src="./imgs/arknights.jpg"> 
+<img align="center" height="175" width="175" src="./imgs/arknights.jpg"> 
 </div>
 
 <div align="right">
 <h3 align="center">World of Warcraft</h3>
-<img height="175" width="175" src="./imgs/wow.png"> 
+<img align="center" height="175" width="175" src="./imgs/wow.png"> 
 </div>
 
 
