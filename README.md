@@ -2,6 +2,12 @@
 
 ## Still working on Readme
 
+<div align="center">
+<h1>📈 Stats 📊</h1>
+
+![](https://komarev.com/ghpvc/?username=felipeyousoro&style=for-the-badge&color=green)
+
+</div>
 
 <div align="center">
 <h1>🖥️ Favorite anime and novel series 📚</h1>
