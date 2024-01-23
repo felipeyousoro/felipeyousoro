@@ -1,30 +1,48 @@
-# Felipe Abrahão
+# Felipe Yousoro
 
-![](https://komarev.com/ghpvc/?username=felipeyousoro&color=blue)
+## Still working on Readme
 
-[//]: # (## Descrição &#40;Description&#41;)
+<div align="center">
+<h1>📈 𝒮𝓉𝒶𝓉𝓈 📊</h1>
 
-[//]: # ()
-[//]: # (**Aviso:** alto risco de ficar bilu tetéia ao lurkar aqui, minha preguiça é mais forte que eu na maioria das vezes)
+![](https://komarev.com/ghpvc/?username=felipeyousoro&style=for-the-badge&color=green)
 
-[//]: # ()
-[//]: # (**Warning:** high-risk of going crazy when lurking here, my lazyness is stronger than me most of the times)
-
-[//]: # (![ll]&#40;https://github.com/felipeyousoro/felipeyousoro/assets/42080804/52492045-63f6-4e28-8fa1-fa90672833ac&#41;)
-
-<div align="center" style="display: inline_block"><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" height="40"/>
 </div>
-  
-## Status Github 📈
 
-<div align="center" style="display: inline_block"><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeyousoro"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeyousoro&layout=donut&theme=highcontrast&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
+<div align="center">
+<h1>🖥️ 𝐹𝒶𝓋𝑜𝓇𝒾𝓉𝑒 𝒶𝓃𝒾𝓂𝑒 𝒶𝓃𝒹 𝓃𝑜𝓋𝑒𝓁 𝓈𝑒𝓇𝒾𝑒𝓈 📚</h1>
+
+<table>
+    <tr>
+    <th>Love Live!</th>
+    <th>Honzuki no Gekokujou</th>
+    <th>Aikatsu!</th>
+    </tr>
+    <tr>
+    <td><img height="250" width="176" src="./imgs/love-live.jpg"></td>
+    <td><img height="250" width="176" src="./imgs/honzuki.jpg"></td>
+    <td><img height="250" width="176" src="./imgs/aikatsu.jpg"></td>
+    </tr>
+</table> 
+
 </div>
-  
+
+<div align="center">
+
+<h1>🎮 𝐹𝒶𝓋𝑜𝓇𝒾𝓉𝑒 𝑔𝒶𝓂𝑒𝓈 🎮</h1>
+
+<table style="margin: 0 auto; width: 100%;">
+    <tr>
+    <th>Arknights</th>
+    <th>Pokémon</th>
+    <th>World of Warcraft</th>
+    </tr>
+    <tr>
+    <td><img height="150" width="150" src="./imgs/arknights.jpg"></td>
+    <td><img height="150" width="150" src="./imgs/pokemon.png"></td>
+    <td><img height="150" width="150" src="./imgs/wow.png"></td>
+    </tr>
+</table> 
+
+</div>
+
