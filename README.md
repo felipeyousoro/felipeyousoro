@@ -1,28 +1,46 @@
 # Felipe Yousoro
 
-![](https://komarev.com/ghpvc/?username=felipeyousoro&color=blue)
+## Still working on Readme
 
-## Descrição (Description)
-
-**Aviso:** alto risco de ficar bilu tetéia ao lurkar aqui, minha preguiça é mais forte que eu na maioria das vezes
-
-**Warning:** high-risk of going crazy when lurking here, my lazyness is stronger than me most of the times
-
-![ll](https://github.com/felipeyousoro/felipeyousoro/assets/42080804/52492045-63f6-4e28-8fa1-fa90672833ac)
-
-<div align="center" style="display: inline_block"><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" height="40"/>
+<div align="center">
+<h1>Favorite Series</h1>
 </div>
-  
-## Status Github 📈
 
-<div align="center" style="display: inline_block"><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeyousoro"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeyousoro&layout=donut&theme=highcontrast&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+
+<div align="left">
+<h3 align="center">Love Live!</h3>
+<img height="250" width="176" src="./imgs/love-live.jpg"> 
 </div>
-  
+
+<div align="center">
+<h3 align="center">Honzuki no Gekokujou</h3>
+<img height="250" width="176" src="./imgs/honzuki.jpg">
+</div>
+
+<div align="left">
+<h3 align="center">Aikatsu!</h3>
+<img height="250" width="176" src="./imgs/aikatsu.jpg"> 
+</div>
+
+</div>
+
+<div align="center">
+<h1>Favorite Games</h1>
+</div>
+
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+
+<div align="left">
+<h3 align="center">Arknights</h3>
+<img height="175" width="175" src="./imgs/arknights.jpg"> 
+</div>
+
+<div align="left">
+<h3 align="center">World of Warcraft</h3>
+<img height="175" width="175" src="./imgs/wow.png"> 
+</div>
+
+
+
+</div>
