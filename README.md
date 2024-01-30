@@ -14,19 +14,19 @@
 <h1> 💻 𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝒾𝓃𝑔 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 🤖 </h1>
 
 <p>
-<img src="./icons/prog/c.svg" height="80" width="80">
-<img src="./icons/prog/cpp.svg" height="80" width="80">
-<img src="./icons/prog/java.svg" height="80" width="80">
-<img src="./icons/prog/python.svg" height="80" width="80">
+<img src="./icons/prog/c.svg" height="64" width="64">
+<img src="./icons/prog/cpp.svg" height="64" width="64">
+<img src="./icons/prog/java.svg" height="64" width="64">
+<img src="./icons/prog/python.svg" height="64" width="64">
 </p>
 
 <h1>🛠️ 𝒯𝑜𝑜𝓁𝓈 🚀</h1>
 
 <p>
-<img src="./icons/prog/aws.svg" height="80" width="80" style="background-color: white;">
-<img src="./icons/prog/docker.svg" height="80" width="80">
-<img src="./icons/prog/debian.svg" height="80" width="80">
-<img src="./icons/prog/pgsql.svg" height="80" width="80">
+<img src="./icons/prog/aws.svg" height="64" width="64">
+<img src="./icons/prog/docker.svg" height="64" width="64">
+<img src="./icons/prog/debian.svg" height="64" width="64">
+<img src="./icons/prog/pgsql.svg" height="64" width="64">
 </p>
 
 </div>
