@@ -14,9 +14,9 @@
 <tr>
 
 <td width="67.5%"> 
-• I am Felipe Yousoro, a CS student from State University of Londrina with a liking of anime, gaming, and, of course, computer - science. <br><br>
+• I am Felipe Yousoro, a CS student from the State University of Londrina with a liking for anime, gaming, and, of course, computer science. <br><br>
 • Currently, I'm working on my final thesis, where I'm researching Data Governance and its relationship with IT Governance. <br><br> 
-• My main interests rely in the Data Science field. However, I am fond of some theoretical stuff, such as algorithms, compilers and data structures. <br><br>
+• My main interests lie in the Data Science field. However, I am also fond of some theoretical subjects, such as algorithms, compilers, and data structures. <br><br>
 </td>
 
 <td align="center">
