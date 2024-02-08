@@ -20,7 +20,7 @@
 </td>
 
 <td align="center">
-<img height="250" width="250" src="./imgs/akari.png">
+<img src="./imgs/akari.png">
 </td>
 
 </tr>
