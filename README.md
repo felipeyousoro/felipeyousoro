@@ -69,9 +69,9 @@
     <th>Aikatsu!</th>
     </tr>
     <tr>
-    <td><img height="250" width="176" src="./imgs/love-live.jpg"></td>
-    <td><img height="250" width="176" src="./imgs/honzuki.jpg"></td>
-    <td><img height="250" width="176" src="./imgs/aikatsu.jpg"></td>
+    <td><img height="250" src="./imgs/love-live.jpg"></td>
+    <td><img height="250" src="./imgs/honzuki.jpg"></td>
+    <td><img height="250" src="./imgs/aikatsu.jpg"></td>
     </tr>
 </table> 
 
@@ -88,9 +88,9 @@
     <th>World of Warcraft</th>
     </tr>
     <tr>
-    <td><img height="150" width="150" src="./imgs/arknights.jpg"></td>
-    <td><img height="150" width="150" src="./imgs/pokemon.png"></td>
-    <td><img height="150" width="150" src="./imgs/wow.png"></td>
+    <td><img height="150" src="./imgs/arknights.jpg"></td>
+    <td><img height="150" src="./imgs/pokemon.png"></td>
+    <td><img height="150" src="./imgs/wow.png"></td>
     </tr>
 </table> 
 
