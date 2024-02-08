@@ -1,8 +1,21 @@
 # Felipe Yousoro
 
-## Still working on Readme
+<div align="center">
+    
+<h1> 👋 About 👋 </h1>
+
+</div>
+    
+<div align="left">
+
+I am Felipe Yousoro, a CS student from State University of Londrina with a liking of anime, gaming, and, of course, computer science. <br><br>
+Currently, I'm working on my final thesis, where I'm researching Data Governance and its relationship with IT Governance. <br><br>
+My main interests rely in the data science field. However, I am fond of some theoretical stuff, such as algorithms, compilers and data structures. <br><br>
+
+</div>
 
 <div align="center">
+    
 <h1>📈 𝒮𝓉𝒶𝓉𝓈 📊</h1>
 
 ![](https://komarev.com/ghpvc/?username=felipeyousoro&style=for-the-badge&color=green)
