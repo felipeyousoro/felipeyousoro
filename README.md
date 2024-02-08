@@ -4,13 +4,27 @@
     
 <h1> 👋 About 👋 </h1>
 
-</div>
-    
-<div align="left">
+ >
 
-I am Felipe Yousoro, a CS student from State University of Londrina with a liking of anime, gaming, and, of course, computer science. <br><br>
-Currently, I'm working on my final thesis, where I'm researching Data Governance and its relationship with IT Governance. <br><br>
-My main interests rely in the data science field. However, I am fond of some theoretical stuff, such as algorithms, compilers and data structures. <br><br>
+</div>
+
+<div style="display: inline_block">
+
+<table style="width: 100%">
+<tr>
+
+<td width="67.5%"> 
+• I am Felipe Yousoro, a CS student from State University of Londrina with a liking of anime, gaming, and, of course, computer - science. <br><br>
+• Currently, I'm working on my final thesis, where I'm researching Data Governance and its relationship with IT Governance. <br><br> 
+• My main interests rely in the Data Science field. However, I am fond of some theoretical stuff, such as algorithms, compilers and data structures. <br><br>
+</td>
+
+<td align="center">
+<img height="250" width="250" src="./imgs/akari.png">
+</td>
+
+</tr>
+</table>
 
 </div>
 
