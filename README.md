@@ -4,8 +4,6 @@
     
 <h1> 👋 About 👋 </h1>
 
- >
-
 </div>
 
 <div style="display: inline_block">
@@ -14,9 +12,10 @@
 <tr>
 
 <td width="67.5%"> 
-• I am Felipe Yousoro, a CS student from the State University of Londrina with a liking for anime, gaming, and, of course, computer science. <br><br>
-• Currently, I'm working on my final thesis, where I'm researching Data Governance and its relationship with IT Governance. <br><br> 
-• My main interests lie in the Data Science field. However, I am also fond of some theoretical subjects, such as algorithms, compilers, and data structures. <br><br>
+• I am Felipe Yousoro, a MSc student from the State University of Londrina with a liking for anime, light novels, gaming, and, of course, computer science <br><br>
+• Currently researching about Data Governance and AI systems for Smart Cities <br><br> 
+• Working on developing solutions for enterprises and governments <br><br>
+• I like systems integration, Data Science and some low-level stuff, such as emulators <br><br>
 </td>
 
 <td align="center">
@@ -45,6 +44,9 @@
 <img src="./icons/prog/cpp.svg" height="64" width="64">
 <img src="./icons/prog/java.svg" height="64" width="64">
 <img src="./icons/prog/python.svg" height="64" width="64">
+<img src="./icons/prog/js.svg" height="64" width="64">
+<img src="./icons/prog/ts.svg" height="64" width="64">
+<img src="./icons/prog/css.svg" height="64" width="64">
 </p>
 
 <h1>🛠️ 𝒯𝑜𝑜𝓁𝓈 🚀</h1>
@@ -54,6 +56,9 @@
 <img src="./icons/prog/docker.svg" height="64" width="64">
 <img src="./icons/prog/debian.svg" height="64" width="64">
 <img src="./icons/prog/pgsql.svg" height="64" width="64">
+<img src="./icons/prog/coolify.svg" height="64" width="64">
+<img src="./icons/prog/git.svg" height="64" width="64">
+<img src="./icons/prog/bash.svg" height="64" width="64">
 </p>
 
 </div>
@@ -64,13 +69,13 @@
 
 <table>
     <tr>
-    <th>Love Live!</th>
     <th>Honzuki no Gekokujou</th>
+    <th>Love Live!</th>
     <th>Aikatsu!</th>
     </tr>
     <tr>
-    <td><img height="250" src="./imgs/love-live.jpg"></td>
     <td><img height="250" src="./imgs/honzuki.jpg"></td>
+    <td><img height="250" src="./imgs/love-live.jpg"></td>
     <td><img height="250" src="./imgs/aikatsu.jpg"></td>
     </tr>
 </table> 
