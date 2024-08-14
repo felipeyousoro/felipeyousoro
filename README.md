@@ -2,7 +2,7 @@
 
 <div align="center">
     
-<h1> 👋 About 👋 </h1>
+<h1> 👋 𝑨𝒃𝒐𝒖𝒕 👋 </h1>
 
 </div>
 
@@ -29,7 +29,7 @@
 
 <div align="center">
     
-<h1>📈 𝒮𝓉𝒶𝓉𝓈 📊</h1>
+<h1>📈 𝑺𝒕𝒂𝒕𝒔 📊</h1>
 
 ![](https://komarev.com/ghpvc/?username=felipeyousoro&style=for-the-badge&color=green)
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<h1> 💻 𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝒾𝓃𝑔 𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 🤖 </h1>
+<h1> 💻 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 🤖 </h1>
 
 <p>
 <img src="./icons/prog/c.svg" height="64" width="64">
@@ -49,7 +49,7 @@
 <img src="./icons/prog/css.svg" height="64" width="64">
 </p>
 
-<h1>🛠️ 𝒯𝑜𝑜𝓁𝓈 🚀</h1>
+<h1>🛠️ 𝑻𝒐𝒐𝒍𝒔 🚀</h1>
 
 <p>
 <img src="./icons/prog/aws.svg" height="64" width="64">
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<h1>🖥️ 𝐹𝒶𝓋𝑜𝓇𝒾𝓉𝑒 𝒶𝓃𝒾𝓂𝑒 𝒶𝓃𝒹 𝓃𝑜𝓋𝑒𝓁 𝓈𝑒𝓇𝒾𝑒𝓈 📚</h1>
+<h1>🖥️ 𝑭𝒂𝒗𝒐𝒓𝒊𝒕𝒆 𝒂𝒏𝒊𝒎𝒆 𝒂𝒏𝒅 𝒏𝒐𝒗𝒆𝒍 𝒔𝒆𝒓𝒊𝒆𝒔 📚</h1>
 
 <table>
     <tr>
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<h1>🎮 𝐹𝒶𝓋𝑜𝓇𝒾𝓉𝑒 𝑔𝒶𝓂𝑒𝓈 🕹️</h1>
+<h1>🎮 𝑭𝒂𝒗𝒐𝒓𝒊𝒕𝒆 𝒈𝒂𝒎𝒆𝒔 🕹️</h1>
 
 <table style="margin: 0 auto; width: 100%;">
     <tr>
